@@ -1,0 +1,5 @@
+/* tailwindcss的基础配置文件
+ input.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
